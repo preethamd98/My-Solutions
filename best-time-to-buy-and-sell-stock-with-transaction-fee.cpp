@@ -3,8 +3,8 @@ public:
     int maxProfit(vector<int>& prices, int fee) {
         int days = prices.size();
         if(days==0){return 0;}
-        vector<int> hasStock(days+1,0);
-        vector<int> hasNoStock(days+1,0);
+        vector<int> hasStock(days,0);
+        vector<int> hasNoStock(days,0);
         
         //Base Case Initialization
         hasNoStock[0] = 0;

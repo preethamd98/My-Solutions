@@ -1,3 +1,4 @@
+[Discussion Post (created on 24/11/2020 at 20:13)](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/submissions/)  
 <h2>1218. Longest Arithmetic Subsequence of Given Difference</h2><h3>Medium</h3><hr><div><p>Given an integer array <code>arr</code>&nbsp;and an integer <code><font face="monospace">difference</font></code>, return the length of the longest subsequence in <font face="monospace"><code>arr</code>&nbsp;</font>which is an arithmetic sequence such that the difference between adjacent elements in the subsequence equals&nbsp;<code>difference</code>.</p>
 
 <p>&nbsp;</p>

@@ -1,3 +1,4 @@
+[Discussion Post (created on 28/11/2020 at 22:0)](https://leetcode.com/problems/flood-fill/discuss/991477/C%2B%2B-Intuitive-Solution)  
 <h2>733. Flood Fill</h2><h3>Easy</h3><hr><div><p>
 An <code>image</code> is represented by a 2-D array of integers, each integer representing the pixel value of the image (from 0 to 65535).
 </p><p>

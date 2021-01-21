@@ -1,3 +1,4 @@
+[Discussion Post (created on 21/0/2021 at 10:28)](https://leetcode.com/problems/meeting-rooms-ii/submissions/)  
 <h2>253. Meeting Rooms II</h2><h3>Medium</h3><hr><div><p>Given an array of meeting time intervals consisting of start and end times <code>[[s1,e1],[s2,e2],...]</code> (s<sub>i</sub> &lt; e<sub>i</sub>), find the minimum number of conference rooms required.</p>
 
 <p><strong>Example 1:</strong></p>
